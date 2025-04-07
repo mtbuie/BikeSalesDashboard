@@ -1,6 +1,7 @@
 # Bike Sales Dashboard in Excel
 
 # Objective
+A supposed Cycling company was to look into what kind of demographics are buying their bikes. They want a visual can look at to easily parse the data they have. 
 
 -Goal
 To create visualizations for the demographics of people who purchase bikes.
@@ -21,7 +22,7 @@ The data is sourced from Kaggle. It is a collection of a 1000 various [Bike Buye
 -Microsoft Excel
 
 # Data Exploration
-There are 13 columns in total listing the average information for a customer. Each customer comes with a unique ID. Using Find and Select we have found no null values or cells filled with errors.
+ There are 13 columns in total listing the average information for a customer. Each customer comes with a unique ID. Using Find and Select we have found no null values or cells filled with errors.
 
  ![bike_table_raw](assets/images/bike_buyers_raw.PNG)
 
@@ -72,7 +73,9 @@ Now that we have all of our charts, we will build the dashboard.
 
 ![Bike Dashboard Preview](assets/images/bike_dashboard_test.gif)
 
+# Insights
 
+ There are some key takeaways we can immediately get from this information. Those with larger incomes are more likely to purchase bikes. Married couples buy more bikes than single customers. Likely bought as a pair to ride together. When it comes to age, the largest amount of bikes are bought by those in their middle age. Those with with longer commutes don't buy as many bikes and opt for other modes transportation. And lastly, people with higher levels of education bought more bikes. 
 
 
 
