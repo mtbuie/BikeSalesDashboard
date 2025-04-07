@@ -10,9 +10,9 @@ To create visualizations for the demographics of people who purchase bikes.
 Create tables and pivot tables using excel. 
 The following fields will be used for the pivot tables:
 
-1.Average Income Per Purchase
-2.Customer Commute
-3.Age Bracket
+1. Average Income Per Purchase
+2. Customer Commute
+3. Age Bracket
 
 # Data Source
 The data is sourced from Kaggle. It is a collection of a 1000 various [Bike Buyers}(https://www.kaggle.com/datasets/heeraldedhia/bike-buyers).
