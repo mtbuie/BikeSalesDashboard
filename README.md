@@ -1,16 +1,16 @@
 # Bike Sales Dashboard in Excel
 
 #Table of Contents
--[Objective](#objective)
--[Goal](#goal)
--[Plan](#plan)
--[Data Source](#data-source)
--[Data Cleaning](#data-cleaning)
--[Visualizations](#pivot-tables-and-charts)
--[Dashboard](#dashboard)
--[Key Insights](#key-insights)
--[Findings](#findings)
--[Business Recommendations](business-recommendations)
+- [Objective](#objective)
+- [Goal](#goal)
+- [Plan](#plan)
+- [Data Source](#data-source)
+- [Data Cleaning](#data-cleaning)
+- [Visualizations](#pivot-tables-and-charts)
+- [Dashboard](#dashboard)
+- [Key Insights](#key-insights)
+- [Findings](#findings)
+- [Business Recommendations](business-recommendations)
 
 # Objective
 A cycling company wants to which customer demographics are most likely to purchase bikes. They want a simple visual that lets them easily interpret their data. 
