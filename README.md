@@ -1,7 +1,7 @@
 # Bike Sales Dashboard in Excel
 
 #Table of Contents
--{Objective](#objective)
+-[Objective](#objective)
 -[Goal](#goal)
 -[Plan](#plan)
 -[Data Source](#data-source)
